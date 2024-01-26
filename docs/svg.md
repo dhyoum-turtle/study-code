@@ -183,7 +183,7 @@ react native에서의 svg
     
 - [viewport vs viewBox](https://webdesign.tutsplus.com/tutorials/svg-viewport-and-viewbox-for-beginners--cms-30844)
     
-- [래스터 vs 벡터](https://www.shutterstock.com/ko/blog/raster-vs-vector-file-formats/?utm_campaign=CO%3DKR_LG%3DKO_BU%3DIMG_AD%3DDSA_TS%3Dlggeneric_RG%3DAPAC_AB%3DACQ_CH%3DSEM_OG%3DCONV_PB%3DGoogle&ds_cid=71700000017889857&ds_ag=FF%3Ddsa-search_AU%3DVisitors&gclsrc=aw.ds&ds_agid=58700005755289517&gclid=Cj0KCQiAqsitBhDlARIsAGMR1RgWXoN-sonLFuSXUbxerMvIbzeqVLKG6FJAThMkkjCjZkIGOQsmYMIaAuS1EALw_wcB&utm_medium=cpc&amp=1&gad_source=1&kw=&utm_source=GOOGLE&ds_eid=700000001520946)https://www.shutterstock.com/ko/blog/raster-vs-vector-file-formats/?utm_campaign=CO%3DKR_LG%3DKO_BU%3DIMG_AD%3DDSA_TS%3Dlggeneric_RG%3DAPAC_AB%3DACQ_CH%3DSEM_OG%3DCONV_PB%3DGoogle&ds_cid=71700000017889857&ds_ag=FF%3Ddsa-search_AU%3DVisitors&gclsrc=aw.ds&ds_agid=58700005755289517&gclid=Cj0KCQiAqsitBhDlARIsAGMR1RgWXoN-sonLFuSXUbxerMvIbzeqVLKG6FJAThMkkjCjZkIGOQsmYMIaAuS1EALw_wcB&utm_medium=cpc&amp=1&gad_source=1&kw=&utm_source=GOOGLE&ds_eid=700000001520946
+- [래스터 vs 벡터](https://www.shutterstock.com/ko/blog/raster-vs-vector-file-formats/?utm_campaign=CO%3DKR_LG%3DKO_BU%3DIMG_AD%3DDSA_TS%3Dlggeneric_RG%3DAPAC_AB%3DACQ_CH%3DSEM_OG%3DCONV_PB%3DGoogle&ds_cid=71700000017889857&ds_ag=FF%3Ddsa-search_AU%3DVisitors&gclsrc=aw.ds&ds_agid=58700005755289517&gclid=Cj0KCQiAqsitBhDlARIsAGMR1RgWXoN-sonLFuSXUbxerMvIbzeqVLKG6FJAThMkkjCjZkIGOQsmYMIaAuS1EALw_wcB&utm_medium=cpc&amp=1&gad_source=1&kw=&utm_source=GOOGLE&ds_eid=700000001520946)
     
     
     
